@@ -1,37 +1,37 @@
 [
     {
         "udid": "001",
-        "alias": "Water Beacon",
+        "alias": "Cinema Beacon",
         "notificationId": "1111"
     },
     {
         "udid": "002",
-        "alias": "Jupiter Beacon",
+        "alias": "Front Door Beacon",
         "notificationId": "2222"
     },
     {
         "udid": "003",
-        "alias": "Sunny Beacon",
+        "alias": "Back Door Beacon",
         "notificationId": "3333"
     },
     {
         "udid": "004",
-        "alias": "Rose Beacon",
+        "alias": "Slots Beacon",
         "notificationId": "4444"
     },
     {
         "udid": "005",
-        "alias": "Bold Beacon",
+        "alias": "Bar Beacon",
         "notificationId": "5055"
     },
     {
         "udid": "006",
-        "alias": "Star Beacon",
+        "alias": "Lounge Beacon",
         "notificationId": "6056"
     },
     {
         "udid": "007",
-        "alias": "Brave Beacon",
+        "alias": " Beacon",
         "notificationId": "7011"
     }
 ]
