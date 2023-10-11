@@ -1,0 +1,37 @@
+[
+    {
+        "udid": "001",
+        "alias": "Water Beacon",
+        "notificationId": "1111"
+    },
+    {
+        "udid": "002",
+        "alias": "Jupiter Beacon",
+        "notificationId": "2222"
+    },
+    {
+        "udid": "003",
+        "alias": "Sunny Beacon",
+        "notificationId": "3333"
+    },
+    {
+        "udid": "004",
+        "alias": "Rose Beacon",
+        "notificationId": "4444"
+    },
+    {
+        "udid": "005",
+        "alias": "Bold Beacon",
+        "notificationId": "5055"
+    },
+    {
+        "udid": "006",
+        "alias": "Star Beacon",
+        "notificationId": "6056"
+    },
+    {
+        "udid": "007",
+        "alias": "Brave Beacon",
+        "notificationId": "7011"
+    }
+]
