@@ -1,36 +1,50 @@
 [
     {
-        "udid": "001",
+        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+        "major": 1,
+        "minor": 101,
         "alias": "Cinema Beacon",
         "notificationId": "1111"
     },
     {
-        "udid": "002",
+        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+        "major": 1,
+        "minor": 102,
         "alias": "Front Door Beacon",
         "notificationId": "2222"
     },
     {
-        "udid": "003",
+        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+        "major": 1,
+        "minor": 103,
         "alias": "Back Door Beacon",
         "notificationId": "3333"
     },
     {
-        "udid": "004",
+        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+        "major": 1,
+        "minor": 104,
         "alias": "Slots Beacon",
         "notificationId": "4444"
     },
     {
-        "udid": "005",
+        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+        "major": 1,
+        "minor": 105,
         "alias": "Bar Beacon",
         "notificationId": "5055"
     },
     {
-        "udid": "006",
+        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+        "major": 1,
+        "minor": 106,
         "alias": "Lounge Beacon",
         "notificationId": "6056"
     },
     {
-        "udid": "007",
+        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+        "major": 1,
+        "minor": 107,
         "alias": " Beacon",
         "notificationId": "7011"
     }

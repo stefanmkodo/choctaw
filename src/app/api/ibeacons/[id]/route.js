@@ -3,14 +3,14 @@ import iBeacons from "../../../iBeacons.json";
 
 export async function GET(req, context) {
     const result = context.params;
-    const udid = String(result?.udid);
-    const iBeacon = iBeacons.find(ib => ib.udid === udid);
+    const id = String(result?.id);
+    const iBeacon = iBeacons.find(i => `${i.uuid}:${i.major}:${i.minor}` === id);
     
     // return details of the found iBeacon
     if (iBeacon)
         return NextResponse.json({alias: iBeacon.alias, notificationId: iBeacon.notificationId})
     
-    if(!iBeacon && udid) {
+    if(!iBeacon && id) {
         return NextResponse.json({},{status: 404});
     }
     
