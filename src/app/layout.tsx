@@ -1,22 +1,22 @@
 import './globals.css'
-import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import type {Metadata} from 'next'
+import {Lato} from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+const lato = Lato({weight: "400", subsets: ['latin']})
 
 export const metadata: Metadata = {
-  title: 'Choctaw iBeacon',
-  description: 'Choctaw iBeacon Demo',
+    title: 'Choctaw iBeacon',
+    description: 'Choctaw iBeacon Demo',
 }
 
 export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
+                                       children,
+                                   }: {
+    children: React.ReactNode
 }) {
-  return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
-    </html>
-  )
+    return (
+        <html lang="en">
+        <body className={`${lato.className} bg-mkodo-dark`}>{children}</body>
+        </html>
+    )
 }
