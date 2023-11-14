@@ -10,42 +10,21 @@
         "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
         "major": 1,
         "minor": 102,
-        "alias": "Cinema Beacon",
-        "notificationId": "38de2f6a-0ac5-43b2-8de9-342f16d09dd0:7b407282-7475-449f-ac1a-962fe868987e"
+        "alias": "Front Entrance Inner Door",
+        "notificationId": "101f3c50-8945-4d36-9b36-79a2d7d0daf4:838d5fd1-af23-4723-9dfd-1d822f18340f"
     },
     {
         "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
         "major": 1,
         "minor": 103,
-        "alias": "Back Door Beacon",
-        "notificationId": "4fdb3c1d-7e90-4ba7-b311-562967ae789a:7b407282-7475-449f-ac1a-962fe868987e"
+        "alias": "Buffalo Slot",
+        "notificationId": "b292341c-e700-421a-bf01-f0727648b34b:fafb0d46-b738-4582-9183-8149930e3161"
     },
     {
         "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
         "major": 1,
         "minor": 104,
-        "alias": "Slots Beacon",
-        "notificationId": "38de2f6a-0ac5-43b2-8de9-342f16d09dd0:7b407282-7475-449f-ac1a-962fe868987e"
-    },
-    {
-        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
-        "major": 1,
-        "minor": 105,
-        "alias": "Bar Beacon",
-        "notificationId": "38de2f6a-0ac5-43b2-8de9-342f16d09dd0:7b407282-7475-449f-ac1a-962fe868987e"
-    },
-    {
-        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
-        "major": 1,
-        "minor": 106,
-        "alias": "Lounge Beacon",
-        "notificationId": "38de2f6a-0ac5-43b2-8de9-342f16d09dd0:7b407282-7475-449f-ac1a-962fe868987e"
-    },
-    {
-        "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
-        "major": 1,
-        "minor": 107,
-        "alias": " Beacon",
-        "notificationId": "38de2f6a-0ac5-43b2-8de9-342f16d09dd0:7b407282-7475-449f-ac1a-962fe868987e"
+        "alias": "Tom's Diner",
+        "notificationId": "6c84e395-6cba-4dc5-9d38-2bc4d15f4ac7:7cb414d0-416a-4c91-aa22-a62e83a46242"
     }
 ]
