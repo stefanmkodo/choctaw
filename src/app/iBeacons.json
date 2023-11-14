@@ -3,14 +3,14 @@
         "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
         "major": 1,
         "minor": 101,
-        "alias": "Cinema Beacon",
-        "notificationId": "38de2f6a-0ac5-43b2-8de9-342f16d09dd0:7b407282-7475-449f-ac1a-962fe868987e"
+        "alias": "Front Entrance Outer Door",
+        "notificationId": "2c5a7ab1-f7bf-44d2-b359-d9aa5b255bd9:5fb8ee5e-d268-4715-a493-3ed3361c19b1"
     },
     {
         "uuid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
         "major": 1,
         "minor": 102,
-        "alias": "Front Door Beacon",
+        "alias": "Cinema Beacon",
         "notificationId": "38de2f6a-0ac5-43b2-8de9-342f16d09dd0:7b407282-7475-449f-ac1a-962fe868987e"
     },
     {
